@@ -1,0 +1,17 @@
+{
+  "name": "node-logger.esmodule",
+  "description": "A simple but elegant colorful logger for node.",
+  "version": "0.0.0",
+  "private": false,
+  "type": "module",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  },
+  "devDependencies": {
+    "@rollup/plugin-typescript": "^8.3.4",
+    "rollup": "^2.77.3",
+    "typescript": "^4.7.4"
+  }
+}
